@@ -1,1 +1,1 @@
-# movie_guide_app_with_js
+# movie_guide_app_with_js_prac
